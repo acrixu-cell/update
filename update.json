@@ -3,8 +3,9 @@
   "force_update": true,
   "publicidad": true,
   "publicidad_banner": true,
-  "publicidad_interstitial": true
+  "publicidad_interstitial": false
 }
+
 
 
 
