@@ -1,10 +1,11 @@
 {
   "min_version_code": 1,
   "force_update": true,
-  "publicidad_banner": false,
+  "publicidad_banner": true,
   "publicidad_interstitial": false,
-  "publicidad_rewarded": true
+  "publicidad_rewarded": false
 }
+
 
 
 
