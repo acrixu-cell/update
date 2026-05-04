@@ -1,6 +1,6 @@
 {
   "min_version_code": 23,
-  "force_update": false,
+  "force_update": true,
   "publicidad_prueba": true,
   "publicidad_banner": false,
   "publicidad_interstitial": false,
